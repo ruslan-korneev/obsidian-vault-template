@@ -16,7 +16,7 @@
     "CyanVoxel's General Tweaks",
     "Daily Note Themes"
   ],
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "baseFontSize": 17
 }
